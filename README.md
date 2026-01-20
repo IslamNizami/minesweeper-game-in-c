@@ -78,10 +78,3 @@ Good luck, and watch your step!
 ========================================
 License
 This project is open-source and free to use. Feel free to modify or distribute it as needed.
-
-
----
-
-If you want, I can also **add a short “Project Overview” at the top** with **GitHub badges** to make it look even more professional on your profile. It’ll make your repo pop.  
-
-Do you want me to do that?
